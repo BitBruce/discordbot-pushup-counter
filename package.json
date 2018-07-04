@@ -1,0 +1,15 @@
+{
+  "name": "bot-pushups-discord",
+  "version": "1.0.0",
+  "description": "Discord bot to count pushups",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^5.0.1",
+    "flat-file-db": "^1.0.0"
+  }
+}
